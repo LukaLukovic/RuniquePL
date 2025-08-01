@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="RuniquePL.build-logic.convetion" target="17" />
+      <module name="RuniquePL.build-logic.convetion.main" target="17" />
+      <module name="RuniquePL.build-logic.convetion.test" target="17" />
+      <module name="RuniquePL.core.connectivity.data.test" target="17" />
+      <module name="RuniquePL.core.lib.main" target="17" />
+      <module name="RuniquePL.core.lib.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
