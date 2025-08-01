@@ -3,7 +3,7 @@
 Runique is a multi-module running tracker app for phones and Wear OS devices you Built by Philipp Lackner, 
 you can find the course promo here([Get it here](https://pl-coding.com/android-essentials-bundle?utm_source=github&utm_medium=readme&utm_campaign=readme_link&utm_id=essentials)).
 
-and the github repository here(([GitHub Repo](https://github.com/philipplackner/Runique))
+and the github repository (([here](https://github.com/philipplackner/Runique))
 
 ![Run Feature](https://pl-coding.com/wp-content/uploads/2024/04/run-feature.png)
 <table>
